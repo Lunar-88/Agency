@@ -21,7 +21,7 @@ function Hero() {
       {/* Email Button */}
       <a
         href="mailto:info@webdeveloperkenya.com"
-        className="bg-orange-600 text-lg font-semibold text-white px-10 sm:px-8 py-3 sm:py-4 rounded-full hover:bg-orange-700 transition duration-300 inline-block"
+        className="bg-orange-600 text-xl font-semibold text-white px-10 sm:px-8 py-3 sm:py-4 rounded-full hover:bg-orange-700 transition duration-300 inline-block"
       >
         Email
       </a>
