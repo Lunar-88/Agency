@@ -41,7 +41,7 @@ function Services() {
           What We Do
           <span className="w-12 border-t border-orange-600 mx-3"></span>
         </h2>
-        <h3 className="text-3xl sm:text-3xl md:text-6xl font-bold text-center mb-10 text-gray-600">
+        <h3 className="text-2xl sm:text-3xl md:text-6xl font-bold text-center mb-10 text-gray-600">
           Website Development Services
         </h3>
 
@@ -53,10 +53,10 @@ function Services() {
             >
               <div className="flex flex-col items-center text-center">
                 {service.icon}
-                <h3 className="text-2xl font-bold mb-4 text-gray-800">
+                <h3 className="text-xl font-bold mb-4 text-gray-800">
                   {service.title}
                 </h3>
-                <p className="text-gray-600 text-lg font-semibold leading-relaxed">
+                <p className="text-gray-600 text-md font-semibold leading-relaxed">
                   {service.description}
                 </p>
               </div>

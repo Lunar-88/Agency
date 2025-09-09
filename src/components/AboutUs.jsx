@@ -29,12 +29,12 @@ function AboutUs() {
           {/* Left: About Card */}
           <div className="bg-white font-normal rounded-2xl shadow-lg p-6 sm:p-8 md:p-10 md:w-2/3">
             <article className="text-gray-700 font-semibold space-y-5 leading-relaxed">
-              <p className="text-lg md:text-xl text-left">
+              <p className="text-md md:text-xl text-left">
                 <span className="text-orange-500 font-semibold">Website Developer Kenya</span> are the best
                 web developers in Kenya. We are passionate about helping businesses in the retail, finance, health, and corporate industries fully leverage the latest software technologies.
                 As a top web development company in Nairobi, our tech team is dedicated to creating websites that meet your exact needs because we pride ourselves on being the best web developers in Kenya.
               </p>
-              <p className="text-lg md:text-xl text-left">
+              <p className="text-md md:text-xl text-left">
                 Additionally, we help you integrate the latest payment gateways, enabling you to accept payments from debit and credit cards both locally and internationally. This integration ensures smooth transactions for your customers no matter where they are located.
               </p>
             </article>
