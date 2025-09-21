@@ -19,7 +19,7 @@ function Navbar() {
         <ul className="hidden md:flex text-black font-semibold text-lg space-x-8">
           <li><a href="#home" className="hover:text-orange-600">Home</a></li>
           <li><a href="#about" className="hover:text-orange-600">About Us</a></li>
-          <li><a href="#portfolio" className="hover:text-orange-600">Portfolio</a></li>
+          <li><a href="#portfolio" className="hover:text-orange-600">Our Services</a></li>
           <li><a href="#services" className="hover:text-orange-600">Services</a></li>
           <li><a href="#contact" className="hover:text-orange-600">Contact Us</a></li>
         </ul>

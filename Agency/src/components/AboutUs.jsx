@@ -16,11 +16,10 @@ function AboutUs() {
 </h2>
 
 <h3
-  className="relative text-2xl sm:text-3xl md:text-5xl font-bold text-center mb-10 text-gray-600"
+  className="relative text-3xl sm:text-3xl md:text-4xl font-bold text-center mb-10 text-gray-600"
   aria-label="About Website Developer Kenya"
 >
   Web Developer Kenya
-  <span className="block w-64 h-1 bg-orange-600 mx-auto mt-4 rounded"></span>
 </h3>
 
 
@@ -29,38 +28,38 @@ function AboutUs() {
           
           {/* Left: About Card */}
           <div className="bg-white font-normal rounded-2xl shadow-lg p-6 sm:p-8 md:p-10 md:w-2/3">
-            <article className="text-gray-700 space-y-5 leading-relaxed">
-              <p className="text-lg md:text-xl text-left">
-                <span className="text-orange-500 font-semibold">Website Developer Kenya</span> are the best
+            <article className="text-gray-700 text-lg space-y-5 leading-relaxed">
+              <p className="text-md md:text-l text-left">
+                <span className="text-orange-500 text-lg">Website Developer Kenya</span> are the best
                 web developers in Kenya. We are passionate about helping businesses in the retail, finance, health, and corporate industries fully leverage the latest software technologies.
                 As a top web development company in Nairobi, our tech team is dedicated to creating websites that meet your exact needs because we pride ourselves on being the best web developers in Kenya.
               </p>
-              <p className="text-lg md:text-xl text-left">
+              <p className="text-md md:text-l text-left">
                 Additionally, we help you integrate the latest payment gateways, enabling you to accept payments from debit and credit cards both locally and internationally. This integration ensures smooth transactions for your customers no matter where they are located.
               </p>
             </article>
           </div>
 
-          <div className="grid grid-cols-2 gap-6 md:w-1/3">
-            <div className="bg-white shadow-md rounded-xl p-6 text-center hover:shadow-lg transition">
-              <Trophy className="mx-auto text-orange-600 w-10 h-10 mb-3" />
-              <h3 className="text-lg font-semibold text-gray-800">Award Winning</h3>
-              <p className="text-gray-600 text-md">Recognized for excellence</p>
+          <div className="grid grid-cols-2 gap-6 md:w-1/2">
+            <div className="bg-white shadow-md rounded-xl p-8 text-center hover:shadow-lg transition">
+              <Trophy className="mx-auto text-orange-600 w-12 h-12 mb-3" />
+              <h3 className="text-lg font-bold text-gray-800">Award Winning</h3>
+              <p className="text-gray-600 font-semibold text-md">Recognized for excellence</p>
             </div>
-            <div className="bg-white shadow-md rounded-xl p-6 text-center hover:shadow-lg transition">
-              <Users className="mx-auto text-orange-600 w-10 h-10 mb-3" />
-              <h3 className="text-lg font-semibold text-gray-800">500+ Clients</h3>
-              <p className="text-gray-600 text-md">Trusted across Kenya</p>
+            <div className="bg-white shadow-md rounded-xl p-8 text-center hover:shadow-lg transition">
+              <Users className="mx-auto text-orange-600 w-12 h-12 mb-3" />
+              <h3 className="text-lg font-bold text-gray-800">500+ Clients</h3>
+              <p className="text-gray-600 font-semibold text-md">Trusted across Kenya</p>
             </div>
-            <div className="bg-white shadow-md rounded-xl p-6 text-center hover:shadow-lg transition">
-              <MapPin className="mx-auto text-orange-600 w-10 h-10 mb-3" />
-              <h3 className="text-lg font-semibold text-gray-800">Based in Nairobi</h3>
-              <p className="text-gray-600 text-md">Serving globally</p>
+            <div className="bg-white shadow-md rounded-xl p-8 text-center hover:shadow-lg transition">
+              <MapPin className="mx-auto text-orange-600 w-12 h-12 mb-3" />
+              <h3 className="text-lg font-bold text-gray-800">Based in Nairobi</h3>
+              <p className="text-gray-600 font-semibold text-md">Serving globally</p>
             </div>
-            <div className="bg-white shadow-md rounded-xl p-6 text-center hover:shadow-lg transition">
-              <Headphones className="mx-auto text-orange-600 w-10 h-10 mb-3" />
-              <h3 className="text-lg font-semibold text-gray-800">24/7 Support</h3>
-              <p className="text-gray-600 text-md">Always here for you</p>
+            <div className="bg-white shadow-md rounded-xl p-8 text-center hover:shadow-lg transition">
+              <Headphones className="mx-auto text-orange-600 w-12 h-12 mb-3" />
+              <h3 className="text-lg font-bold text-gray-800">24/7 Support</h3>
+              <p className="text-gray-600 font-semibold text-md">Always here for you</p>
             </div>
           </div>
 

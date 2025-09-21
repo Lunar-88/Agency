@@ -13,11 +13,11 @@ function Hero() {
 
       {/* Content */}
       <div className="relative px-6 md:px-0 md:ml-12 lg:ml-24 text-left text-white max-w-2xl">
-        <h1 className="text-4xl sm:text-5xl font-serif md:text-6xl font-bold mb-6 drop-shadow-lg">
+        <h1 className="text-5xl sm:text-5xl font-serif md:text-6xl font-bold mb-6 drop-shadow-lg">
           Web Developer <br /> Kenya
         </h1>
 
-        <p className="text-lg font-semibold sm:text-lg md:text-2xl pb-14">
+        <p className="text-xl font-semibold sm:text-lg md:text-2xl pb-14">
           Best Web Developers in Kenya || Top Web Development Company in Nairobi
         </p>
 

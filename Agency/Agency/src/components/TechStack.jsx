@@ -24,14 +24,14 @@ function TechStack() {
   return (
     <section className="py-12 bg-gray-100">
       <h2
-         className="flex items-center justify-center text-orange-600 text-sm sm:text-lg md:text-sm font-semibold tracking-widest uppercase mb-4"
+         className="flex items-center justify-center text-orange-600 text-sm sm:text-lg md:text-xl font-semibold tracking-widest uppercase mb-4"
          aria-label="About Website Developer Kenya"
       >
         <span className="w-12 border-t border-orange-600 mx-3"></span>
           Technologies We Use
         <span className="w-12 border-t border-orange-600 mx-3"></span>
       </h2>
-        <h3 className="text-2xl sm:text-3xl md:text-4xl font-bold text-center mb-10 text-gray-600">
+        <h3 className="text-2xl sm:text-3xl md:text-6xl font-bold text-center mb-10 text-gray-600">
             Our Teck Stack
         </h3>
 
